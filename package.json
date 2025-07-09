@@ -1,0 +1,23 @@
+{
+  "name": "my-personal-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch index.scss:index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karlene73/my-personal-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karlene73/my-personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/Karlene73/my-personal-portfolio#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
